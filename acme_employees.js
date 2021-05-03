@@ -36,6 +36,7 @@ const findManagerFor = (employee, employeeList) => {
 }
 
 
+
 spacer('findEmployeeByName Moe')
 // given a name and array of employees, return employee
 console.log(findEmployeeByName('moe', employees));//{ id: 1, name: 'moe' }
